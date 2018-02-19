@@ -1,0 +1,9 @@
+scope 'Hlavni telo programu
+	Dim a As Integer = 1
+
+	If a < 0 THEN
+
+	ELSE
+
+	end IF
+END SCOPE

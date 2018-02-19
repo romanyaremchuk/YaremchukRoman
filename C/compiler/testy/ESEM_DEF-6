@@ -1,0 +1,7 @@
+'no declaration
+scope
+
+	x= x+y
+
+end scope
+

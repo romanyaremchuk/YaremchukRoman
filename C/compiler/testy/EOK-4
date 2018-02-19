@@ -1,0 +1,3 @@
+scope
+	Dim a As Double
+END SCOPE

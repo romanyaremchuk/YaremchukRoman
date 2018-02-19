@@ -1,0 +1,17 @@
+'return int (bar has string)
+
+function bar(b as integer) as string
+	
+	return b
+
+end function 
+
+scope
+
+	dim i as integer
+	dim s as integer
+
+	s = 4
+	i = bar(s)
+
+end scope

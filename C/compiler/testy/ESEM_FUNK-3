@@ -1,0 +1,20 @@
+'substr(string, int, int) but here: substr(string, string, int)
+
+scope
+
+	dim s as string
+	dim ss as string
+	dim i as integer
+
+	dim vysl as string
+	
+	s = !"foo"
+	ss= !"fo"
+	i = 1
+
+	vysl = substr(s, ss, i)
+	
+	
+	
+
+end scope

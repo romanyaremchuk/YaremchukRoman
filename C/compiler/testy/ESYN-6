@@ -1,0 +1,6 @@
+scope 'Hlavni telo programu
+'CHYBA - nie je definovana premenna A
+	PrinT !"Zadejte cislo pro vypocet faktorialu";
+	InpuT A
+
+END SCOPE

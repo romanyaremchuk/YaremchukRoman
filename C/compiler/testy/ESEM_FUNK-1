@@ -1,0 +1,12 @@
+'length(string) but here: length(int)
+
+scope
+
+	dim s as integer
+	dim i as integer
+
+	s = 1
+	i = length(s)
+	
+
+end scope

@@ -1,0 +1,9 @@
+scope 'Hlavni telo programu
+	Dim a As Integer =2
+
+	If (a > 0) THEN
+		print !"\nSOM V IF\n";
+	ELSE
+		Print !"\nSOM V ELSE";
+	end IF
+END SCOPE

@@ -1,0 +1,15 @@
+'return without data
+
+function bar(b as string) as string
+return
+end function 
+
+scope
+
+	dim i as integer
+	dim s as string
+
+	s = !"foo"
+	i = bar(s)
+
+end scope

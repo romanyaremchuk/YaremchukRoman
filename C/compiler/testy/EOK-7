@@ -1,0 +1,5 @@
+scope
+	Dim a As Integer
+	dim b as integer = 8
+	a = 10 - b
+END SCOPE

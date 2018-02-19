@@ -1,0 +1,15 @@
+'asc(string,int) but here: asc(double, int)
+
+scope
+
+	dim s as double
+	dim i as integer
+	
+	dim vysl as integer
+
+	s = 1.5
+	i = 5
+	
+	vysl = asc(s,i)
+
+end scope

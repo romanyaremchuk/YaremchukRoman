@@ -1,0 +1,10 @@
+scope 'Hlavni telo programu
+	Dim a As Integer = 5
+	DIM vysl AS INTEGER
+
+	Do WHile A > 0
+		VYSL = vysl * a
+		a = A - 1
+	LooP
+
+END SCOPE

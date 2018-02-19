@@ -1,0 +1,16 @@
+'chr(int) but here: chr(string)
+
+scope
+
+	dim s as string
+	
+	dim vysl as string
+
+	s = !"foo"
+	
+	vysl = chr(s)
+	
+	
+	
+
+end scope

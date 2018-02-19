@@ -1,0 +1,8 @@
+'bad assignment
+scope
+
+	dim i as integer
+	
+	5 = i
+
+end scope

@@ -1,0 +1,14 @@
+'different types
+
+scope 
+
+	dim i as integer
+	dim s as string
+
+	i = 5
+	s = !"foo"
+
+	if (i > s)
+		i = i + 1
+
+end scope

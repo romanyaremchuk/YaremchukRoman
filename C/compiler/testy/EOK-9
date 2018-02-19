@@ -1,0 +1,9 @@
+scope 'Hlavni telo programu
+	Dim a As Integer
+
+	PrinT !"Zadejte cislo";
+	InpuT A
+
+	Print !"\nAcko je:" ; a ; !"\n";
+
+END SCOPE

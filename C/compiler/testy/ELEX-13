@@ -1,0 +1,18 @@
+function fffff(la as integer) as integer
+
+dim na as integer
+
+na = 12
+
+return  na
+
+end function
+
+
+
+
+Scope
+	Dim a As Integer
+	a = .1
+
+End Scope

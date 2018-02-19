@@ -1,0 +1,5 @@
+scope 
+
+	Print !"Nejaky text";
+
+END SCOPE

@@ -1,0 +1,13 @@
+'div 0
+
+
+scope
+	dim p as integer
+	dim o as integer
+	
+	o = 0 	
+
+	p = p / o	
+	
+	
+end scope

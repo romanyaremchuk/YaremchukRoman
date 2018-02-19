@@ -1,0 +1,12 @@
+'string+int
+
+scope
+
+	dim i as integer
+	dim s as string
+
+	dim vysl as string
+
+	vysl = i + s
+
+end scope

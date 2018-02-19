@@ -1,0 +1,9 @@
+'the variable has not been declared
+
+scope
+
+	dim i as integer
+
+	i = i + koruna 
+
+end scope

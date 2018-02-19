@@ -1,0 +1,12 @@
+Scope
+	Dim _% As Integer 'CHYBA - neplatny znak v identifikatore
+	Dim vysl As Integer = 10
+
+	Print !"Zadejte cislo pro vypocet faktorialu";
+	Input _
+	If _ < 0 Then
+		Print !"\nOK\n";
+	Else
+		Print !"\nVysledek je:" ; vysl ; !"\n";
+	End If
+End Scope

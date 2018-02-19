@@ -1,0 +1,13 @@
+'mod int and double
+
+scope 
+
+	dim i as integer
+	dim d as double
+
+	i = 5
+	d = 2.5
+
+	i = i \ d
+
+end scope
