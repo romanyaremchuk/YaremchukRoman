@@ -1,0 +1,42 @@
+/*BODY background #bdc3c7;*/
+
+body {
+	color: #bdc3c7;
+}
+
+h1 {
+	color: #9b59b6;
+}
+
+h2 {
+	color: orange;
+}
+
+li {
+	color: #0000cd;
+}
+
+p {
+	background: yellow;
+}
+
+input {
+	border:3px solid red;
+}
+
+.hello {
+	background: white;
+}
+
+#special {
+	border:2px solid #0000af;
+}
+
+p {
+	font-size: 25px;
+}
+
+input[type="text"]{
+	color: gray;
+}
+
