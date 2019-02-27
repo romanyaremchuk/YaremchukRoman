@@ -1,0 +1,43 @@
+
+h1{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  margin: auto;
+  font-family: 'Oswald', sans-serif;
+}
+table{
+  margin: auto;
+}
+#first{
+  border: 5px solid white;
+  background: #FF0303;
+  width: 130px;
+  height: 300px;
+}
+#second{
+  border: 5px solid white;
+  background: #FF8C00;
+  width: 130px;
+  height: 300px;
+}
+
+#three{
+  border: 5px solid white;
+  background: #FFED00;
+  width: 130px;
+  height: 300px;
+}
+
+#four{
+  border: 5px solid white;
+  background: #008026;
+  width: 130px;
+  height: 300px;
+}
+
+#five{
+  border: 5px solid white;
+  background: #004DFF;
+  width: 130px;
+  height: 300px;
+}
